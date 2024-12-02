@@ -30,14 +30,14 @@
 		<div class="hero">
 
             <video autoplay loop muted plays-inline class="back-video">
-                <source src="cakevideo.5.mp4" type="video/mp4">
-            </video>
+                <source src="cakevideo5.mp4" type="video/mp4">
+            </video>x	
 
 
 <header>
 	
             <nav>
-                <img src="images/cakelogo.png" class="logo" alt="logo">
+                <img src="logocake.png" class="logo" alt="logo">
                 <ul>
                     <li><a href="#">Home</a></li>
                     <li><a href="#">Recipes</a></li>
